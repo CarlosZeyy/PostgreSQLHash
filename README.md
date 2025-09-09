@@ -69,7 +69,7 @@ Aqui está a estrutura de tópicos abordados ao longo do curso, divididos por m�
 ## 🛠️ Ferramentas Utilizadas
 
 * **SGBD:** PostgreSQL
-* **IDE/Cliente SQL:** (Ex: DBeaver, pgAdmin, VS Code)
+* **IDE/Cliente SQL:** (pgAdmin, VS Code)
 * **Linguagem:** SQL, PL/pgSQL
 
 ---
